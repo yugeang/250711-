@@ -1,11 +1,12 @@
 # 250711-
 Console - Text RPG (스파르타 던전) 과제
 
-using System;
+    using System;
 
-class Program
-{
-   static void Main()
+    class Program
+
+    { 
+     static void Main()
     { 
         int[] player = new int[6];
         player[0] = 1;
